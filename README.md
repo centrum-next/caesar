@@ -1,6 +1,6 @@
 # Caesar
 
-OpenLDAP software script suite written in Python
+OpenLDAP softwaare script suite written in Python
 
 # License
 
