@@ -1,10 +1,10 @@
 # Caesar
 
-OpenLDAP softwaare script suite written in Python
+OpenLDAP softwaare script toolkit written in Python
 
 # License
 
-OpenLDAP software script suite written in Python
+OpenLDAP software script toolkit written in Python
 
 Copyright (C) 2024-2025 QB Networks
 
